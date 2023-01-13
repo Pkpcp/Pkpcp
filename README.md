@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Prudhvi
 - 👀 I’m interested in ...python programming 
-- 🌱 I’m currently learning ...python programming 
-- 💞️ I’m looking to collaborate on ...Google,Amazon,hp,seimens
+- 🌱 I’m currently learning ...python programming
 - 📫 How to reach me ...
 
 <!---
